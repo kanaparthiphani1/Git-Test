@@ -1,0 +1,25 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "This is a git test app",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanaparthiphani1/Git-Test.git"
+  },
+  "author": "Kanaparthi Phani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kanaparthiphani1/Git-Test/issues"
+  },
+  "homepage": "https://github.com/kanaparthiphani1/Git-Test#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
